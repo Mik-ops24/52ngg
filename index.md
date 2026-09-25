@@ -2,5 +2,6 @@
 layout: default
 
 - i,m studying 
-- email:"newbox0007@gmail.com"
-- tg:"@Miklyxcv"
+- email:"thonmanyok5@gmail.com"
+- tg:"Jayden"
+https://github.com/Piok211/PiokRe
